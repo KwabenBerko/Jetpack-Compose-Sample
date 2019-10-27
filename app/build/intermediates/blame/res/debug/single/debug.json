@@ -24,6 +24,10 @@
         "source": "/Users/kwabenaberko/StudioProjects/JetpackComposeSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/kwabenaberko/StudioProjects/JetpackComposeSample/app/build/intermediates/res/merged/debug/drawable_header.png.flat",
+        "source": "/Users/kwabenaberko/StudioProjects/JetpackComposeSample/app/src/main/res/drawable/header.png"
+    },
+    {
         "merged": "/Users/kwabenaberko/StudioProjects/JetpackComposeSample/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/kwabenaberko/StudioProjects/JetpackComposeSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
